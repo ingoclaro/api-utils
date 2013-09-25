@@ -1,0 +1,21 @@
+PATH
+  remote: .
+  specs:
+    api-utils (0.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.0.8)
+    minitest-english (0.1.0)
+    rake (0.9.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  api-utils!
+  bundler (~> 1.3)
+  minitest (~> 5.0.8)
+  minitest-english (~> 0.1.0)
+  rake
